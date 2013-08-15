@@ -1,0 +1,19 @@
+<NotepadPlus>
+    <Project name="joligrasys">
+        <File name="app.js" />
+        <File name="package.json" />
+        <Folder name="public">
+            <Folder name="scripts">
+                <File name="public\scripts\jquery-2.0.3.min.js" />
+            </Folder>
+            <Folder name="style">
+                <File name="public\style\default.less" />
+            </Folder>
+        </Folder>
+        <Folder name="views">
+            <File name="views\about.jade" />
+            <File name="views\index.jade" />
+            <File name="views\template.jade" />
+        </Folder>
+    </Project>
+</NotepadPlus>

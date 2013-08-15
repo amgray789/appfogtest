@@ -1,0 +1,27 @@
+{
+	"name": "joligrasys",
+	"preferGlobal": false,
+	"version": "0.0.1",
+	"author": "Anthony Gray <amgray789@hotmail.com>",
+	"description": "Appfog test",
+	"contributors": [{
+		"name": "Anthony Gray",
+		"email": "amgray789@hotmail.com"
+	}],
+	"keywords": [],
+	"dependencies": {
+		"jade": "0.31.1",
+		"express": "3.2.5",
+		"less": "1.3.3",
+		"less-middleware": "0.1.11"
+	},
+	"analyze": false,
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.8"
+	},
+	"readme": "# Appfog basic test.",
+	"readmeFilename": "readme.md",
+	"_id": "joligrasys@0.0.1",
+	"_from": "joligrasys@"
+}
