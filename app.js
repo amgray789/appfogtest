@@ -29,6 +29,12 @@ app.get('/about', function(req, res) {
 	});
 });
 
+app.get('/help', function(req, res) {
+	res.render('help', {
+		'title': 'Help'
+	});
+});
+
 app.get('/services/getUser/:id', function(req, res) {
 	res.setHeader('Content-Type', 'application/json');
 	res.send(JSON.stringify({"name": "anthony gray", "id":  req.params.id}));
