@@ -8,6 +8,10 @@
 		"name": "Anthony Gray",
 		"email": "amgray789@hotmail.com"
 	}],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amgray789/appfogtest.git"
+  },
 	"keywords": [],
 	"dependencies": {
 		"jade": "0.31.1",
